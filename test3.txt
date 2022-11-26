@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 My aim is to a Software testing engineer
+=======
+this is my first git ptoject
+modifications are added
+>>>>>>> 9b9725e0c020ec04188bf27ee7162c1ddd5d49bc
